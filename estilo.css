@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    height: 70px;
+    align-items: center;
+   text-decoration: none;
+   justify-content: space-between;
+    
+}
+
+
+.logo img {
+ height: 50px;
+ align-items: center;
+
+}
+
+
+.conteiner {
+    width: 80vw;
+    max-width: 1000px;
+    min-width: 320px;
+    margin: auto;
+   
+}
+
+.conteiner img{
+    width: 100%;
+    border-radius: 15px;
+    box-shadow: 0px 3px 5px rgba(15, 15, 15, .5) ;
+
+}
+
+.card-deck {
+    width: 80vw;
+    max-width: 1000px;
+    min-width: 320px;
+    margin: auto;  
+}
